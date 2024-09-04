@@ -27,20 +27,20 @@
         jobs: [
           {
             id: 1,
-            title: "Estágio em Desenvolvimento Web",
-            company: "Empresa XYZ",
-            address: "Rua Exemplo, 123",
-            phone: "(11) 98765-4321",
-            description: "Trabalhei com desenvolvimento de aplicações web utilizando Vue.js e Node.js.",
+            title: "Estágio nível Médio",
+            company: "Ministério Público do Estado do Paraná",
+            address: " R. Mal. Hermes, 751 - Centro Cívico, Curitiba - PR, 80530-225",
+            phone: "(41) 3250-4750",
+            description: "Trabalhei ajudando a equipe com problemas relacionados a organização do escritório.",
             image: "link-para-imagem-empresa-xyz.png"
           },
           {
             id: 2,
-            title: "Estágio em Data Science",
-            company: "Empresa ABC",
-            address: "Avenida Teste, 456",
-            phone: "(21) 91234-5678",
-            description: "Desenvolvimento de modelos de machine learning e análise de dados.",
+            title: "Estágio Nível Superior",
+            company: "CELEPAR - Companhia de Tecnologia da Informação e Comunicação do Paraná",
+            address: "R. Mateus Leme, 1561 - Centro Cívico, Curitiba - PR, 80530-005",
+            phone: "(41) 3200-5000",
+            description: "Desenvolvimento em Java, Vue.js e SQL; Participando de projetos como o Sistema Digital de Saúde e Habilitação.",
             image: "link-para-imagem-empresa-abc.png"
           }
         ],
